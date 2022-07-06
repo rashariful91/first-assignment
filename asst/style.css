@@ -18,7 +18,7 @@ a {
 }
 
 .top-hero {
-    background-image: url(/images/top-hero.png);
+    background-image: url(/images/hero.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
