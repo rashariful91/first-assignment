@@ -1,5 +1,5 @@
 body {
-    font-family: poppins, sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -24,6 +24,7 @@ a {
     height: 100vh;
     width: 100%;
     position: relative;
+    
 }
 
 .content {
@@ -60,9 +61,6 @@ a {
     text-align: center;
     margin-top: 150px;
 }
-
-
-
 .donate-describ {
     margin-bottom: 50px;
     color: #707070;
@@ -154,6 +152,81 @@ h3 {
     padding: 20px;
     margin-left: 30px;
 }
+/* ==========our gallery======== */
+.our-gallery {
+    text-align: center;
+    margin-top: 150px;
+}
+.our-gallery h2{
+    font-size: 45px;
+}
+.our-gallery p{
+    width: 40%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.g-container{
+    display: flex;
+    width: 55%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.g-container img{
+    width: 320px;
+    height: auto;
+    border: 5px solid aliceblue;
+    border-radius: 10px;
+    
+}
+.g-container img{
+    border-radius: 10px;
+}
+.img-items-02 img{
+    box-shadow: 10px 10px 50px rgb(174, 171, 171);
+    box-shadow: -10px 10px 50px rgb(174, 171, 171);
+   
+}
+/* ==========Email subscribe======== */
+.newsletter{
+    margin-top: 150px;
+    text-align: center;
+}
+.newsletter p{
+    margin-bottom: 50px;
+}
+.news-container{
+    width: 50%;
+    height: 200px;
+    background-color: #59baff22;
+    display: flex;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.news-container form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.news-container form input{
+    background-color:white;
+    padding: 10px;
+    outline: none;
+    border: none;
+    color: white;
+    border-radius: 5px 0px 0px 5px ;
+}
+.subscribe{
+    background-color: #FF5959;
+    padding: 10px 25px;
+    color: white;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    text-transform: capitalize;
+    border-radius:0px 5px 5px 0px ;
+}
+
 
 /* ==========footer======== */
 .main-footer{
