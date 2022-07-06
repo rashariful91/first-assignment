@@ -107,7 +107,7 @@ h3 {
 }
 
 /* ============= Our Donate Plan ============ */
-.Our-Donate-Plan {
+.Our-Donate-Plan {   
     margin-top: 150px;
 }
 
@@ -124,6 +124,7 @@ h3 {
 }
 .sub{
     margin-bottom: 50px;
+    color: #707070;
 }
 
 .item-01 {
@@ -161,6 +162,7 @@ h3 {
     font-size: 45px;
 }
 .our-gallery p{
+    color: #707070;
     width: 40%;
     margin: 0 auto;
     margin-bottom: 50px;
@@ -192,6 +194,7 @@ h3 {
     text-align: center;
 }
 .newsletter p{
+    color: #707070;
     margin-bottom: 50px;
 }
 .news-container{
@@ -246,6 +249,7 @@ h3 {
 }
 .footer-title{
     font-size: 24px;
+    color: #FF5959;
 }
 .footer-content span{
     color: #FF5959;
